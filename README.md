@@ -1,4 +1,5 @@
 # Hackaton #1
+Контекстное меню с командами
 
 # Таймер на JavaScript
 Это мой первый самостоятельный компонент с логикой и интерфейсом на чистом JavaScript.
@@ -28,4 +29,4 @@ timer.trigger();
 
 ## Ссылка на рабочий сайт
 
-Посмотреть проект онлайн можно здесь: [Girls Power Live Site](https://vvminin.github.io/girls_power/)
+Посмотреть проект онлайн можно здесь: [Girls Power Live Site](https://vvminin.github.io/girls_power/) (клик правой кнопкой мыши для отображения конекстного меню)
