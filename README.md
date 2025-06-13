@@ -23,3 +23,9 @@ import { TimerModule } from './modules/timer.module';
 const timer = new TimerModule();
 document.body.append(timer.toHTML());
 timer.trigger();
+
+---
+
+## Ссылка на рабочий сайт
+
+Посмотреть проект онлайн можно здесь: [Girls Power Live Site](https://vvminin.github.io/girls_power/)
